@@ -1,5 +1,5 @@
 # sales-visualization
-Sales Visualization with SQL &amp; Power BI
+Sales Visualization with SQL &amp; Power BI (Based on Adventure Works dataset)
 
 1. Sales Overview
 
