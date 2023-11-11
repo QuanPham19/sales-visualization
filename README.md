@@ -3,7 +3,7 @@ Sales Visualization with SQL &amp; Power BI (Based on Adventure Works dataset)
 
 1. Stakeholder Requirements
 
-| No  | As A | I want to | So that | Acceptance criteria |
+| No  | As a | I want to | So that | Acceptance criteria |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Sales Manager | Get an overview dashboard of Internet sales | Can follow better which customers and products sell the best | A Power BI dashboard which can update data everyday |
 | 2 | Sales Representative | Get a detailed overview of Internet sales per Customer | Can follow up with the customers that buy the most and who can sell to | A Power BI dashboard that can filter data for each customer |
