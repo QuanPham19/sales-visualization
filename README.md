@@ -20,6 +20,6 @@ Sales Visualization with SQL &amp; Power BI (Based on Adventure Works dataset)
 
 4. Customer Details
    
-![image](https://github.com/QuanPham19/sales-visualization/assets/106662700/2cf1f914-9d13-4e41-aabf-aee3ca3cbd9c)
+![image](https://github.com/QuanPham19/sales-visualization/assets/106662700/d242d5b8-467f-401e-8ffe-4fcd4e7a67de)
 
 
