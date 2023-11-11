@@ -7,7 +7,8 @@ Sales Visualization with SQL &amp; Power BI (Based on Adventure Works dataset)
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Sales Manager | Get an overview dashboard of Internet sales | Can follow better which customers and products sell the best | A Power BI dashboard which can update data everyday |
 | 2 | Sales Representative | Get a detailed overview of Internet sales per Customer | Can follow up with the customers that buy the most and who can sell to | A Power BI dashboard that can filter data for each customer |
-| Content Cell  | Content Cell  |
+| 3 | Sales Representative | Get a detailed overview of Internet sales per Product | Can follow up on the products that sell the most | A Power BI dashboard which allows me to filter data for each product |
+| 4 | Sales Manager | Get an overview dashboard of Internet sales | Can follow sales over time against budget | A Power BI dashboard with graphs and KPIs comparing against budget |
 
 2. Entity Relationship Diagram
 
